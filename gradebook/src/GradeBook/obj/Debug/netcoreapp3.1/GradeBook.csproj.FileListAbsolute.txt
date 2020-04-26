@@ -11,3 +11,16 @@
 /home/aditya/Desktop/C#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
 /home/aditya/Desktop/C#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
 /home/aditya/Desktop/C#/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.deps.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.runtimeconfig.dev.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/bin/Debug/netcoreapp3.1/GradeBook.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csprojAssemblyReference.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.csproj.CoreCompileInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfoInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.AssemblyInfo.cs
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/gradebook/src/GradeBook/obj/Debug/netcoreapp3.1/GradeBook.genruntimeconfig.cache
