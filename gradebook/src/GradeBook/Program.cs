@@ -51,17 +51,39 @@ namespace GradeBook
             // Console.WriteLine(result);
 
             //Calculator
-            int no1 = Convert.ToInt32(Console.ReadLine());
-            int no2 = Convert.ToInt32(Console.ReadLine());
-            char choice = Convert.ToChar(Console.ReadLine());
-            int res = 0;
-            switch(choice) {
-                case '+': res = no1 + no2; break;
-                case '-': res = no1 - no2; break;
-                case '*': res = no1 * no2; break;
-                case '/': res = no1 / no2; break;
+            // int no1 = Convert.ToInt32(Console.ReadLine());
+            // int no2 = Convert.ToInt32(Console.ReadLine());
+            // char choice = Convert.ToChar(Console.ReadLine());
+            // int res = 0;
+            // switch(choice) {
+            //     case '+': res = no1 + no2; break;
+            //     case '-': res = no1 - no2; break;
+            //     case '*': res = no1 * no2; break;
+            //     case '/': res = no1 / no2; break;
+            // }
+            // Console.WriteLine($"The Final Result is: {res}");
+
+            //Area of Circle
+            // var book = new Books();
+            // Console.WriteLine("Enter The radius of circle: ");
+            // int radius = Convert.ToInt32(Console.ReadLine());
+            // double Area = Math.PI * radius * radius;
+            // Console.WriteLine($"The area is: {Area:N1}"); //Setting Precision to 1 decimal Place
+
+            //Factorial
+
+            int num = Convert.ToInt32(Console.ReadLine());
+            int res = Factorial(num);
+            Console.WriteLine($"The Factoial of {num} is {res}");
+        }
+
+        public static int Factorial(int num) {
+            if(num == 0 || num == 1) {
+                return 1;
             }
-            Console.WriteLine($"The Final Result is: {res}");
+            else {
+                return Factorial(num - 1) * num;
+            }
         }
     }
 }
