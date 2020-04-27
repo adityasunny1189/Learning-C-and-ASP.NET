@@ -50,31 +50,31 @@ namespace GradeBook
             // }
             // Console.WriteLine(result);
 
-            //Calculator
-            // int no1 = Convert.ToInt32(Console.ReadLine());
-            // int no2 = Convert.ToInt32(Console.ReadLine());
-            // char choice = Convert.ToChar(Console.ReadLine());
-            // int res = 0;
-            // switch(choice) {
-            //     case '+': res = no1 + no2; break;
-            //     case '-': res = no1 - no2; break;
-            //     case '*': res = no1 * no2; break;
-            //     case '/': res = no1 / no2; break;
-            // }
-            // Console.WriteLine($"The Final Result is: {res}");
-
-            //Area of Circle
-            // var book = new Books();
-            // Console.WriteLine("Enter The radius of circle: ");
-            // int radius = Convert.ToInt32(Console.ReadLine());
-            // double Area = Math.PI * radius * radius;
-            // Console.WriteLine($"The area is: {Area:N1}"); //Setting Precision to 1 decimal Place
+            // Calculator();
+            
+            // AreaOfCircle();
 
             //Factorial
 
-            int num = Convert.ToInt32(Console.ReadLine());
-            int res = Factorial(num);
-            Console.WriteLine($"The Factoial of {num} is {res}");
+            // int num = Convert.ToInt32(Console.ReadLine());
+            // int res = Factorial(num);
+            // Console.WriteLine($"The Factoial of {num} is {res}");
+
+            Fibonacci();
+        }
+
+        public static void Fibonacci() {
+            List<int> FibArray = new List<int> {1, 1, 2};
+            for(int i = 0; i < 10; i++) {
+                int num1 = FibArray[FibArray.Count - 1];
+                int num2 = FibArray[FibArray.Count - 2];
+                FibArray.Add(num1 + num2);
+            }
+
+            //Print Fibonnaci number list
+            foreach(var num in FibArray) {
+                Console.WriteLine(num);
+            }
         }
 
         public static int Factorial(int num) {
@@ -84,6 +84,27 @@ namespace GradeBook
             else {
                 return Factorial(num - 1) * num;
             }
+        }
+
+        public static void AreaOfCircle() {
+            Console.WriteLine("Enter The radius of circle: ");
+            int radius = Convert.ToInt32(Console.ReadLine());
+            double Area = Math.PI * radius * radius;
+            Console.WriteLine($"The area is: {Area:N1}");
+        }
+
+        public static void Calculator() {
+            int no1 = Convert.ToInt32(Console.ReadLine());
+            int no2 = Convert.ToInt32(Console.ReadLine());
+            char choice = Convert.ToChar(Console.ReadLine());
+            int res = 0;
+            switch(choice) {
+                case '+': res = no1 + no2; break;
+                case '-': res = no1 - no2; break;
+                case '*': res = no1 * no2; break;
+                case '/': res = no1 / no2; break;
+            }
+            Console.WriteLine($"The Final Result is: {res}");
         }
     }
 }
