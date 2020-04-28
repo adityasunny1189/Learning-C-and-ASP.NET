@@ -1,0 +1,13 @@
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/obj/Debug/netcoreapp3.1/Class_and_OOPs.csprojAssemblyReference.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/obj/Debug/netcoreapp3.1/Class_and_OOPs.csproj.CoreCompileInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/obj/Debug/netcoreapp3.1/Class_and_OOPs.AssemblyInfoInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/obj/Debug/netcoreapp3.1/Class_and_OOPs.AssemblyInfo.cs
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/bin/Debug/netcoreapp3.1/Class_and_OOPs
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/bin/Debug/netcoreapp3.1/Class_and_OOPs.deps.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/bin/Debug/netcoreapp3.1/Class_and_OOPs.runtimeconfig.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/bin/Debug/netcoreapp3.1/Class_and_OOPs.runtimeconfig.dev.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/bin/Debug/netcoreapp3.1/Class_and_OOPs.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/bin/Debug/netcoreapp3.1/Class_and_OOPs.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/obj/Debug/netcoreapp3.1/Class_and_OOPs.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/obj/Debug/netcoreapp3.1/Class_and_OOPs.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/Class_and_OOPs/obj/Debug/netcoreapp3.1/Class_and_OOPs.genruntimeconfig.cache
