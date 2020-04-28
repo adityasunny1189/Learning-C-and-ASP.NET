@@ -1,0 +1,13 @@
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/bin/Debug/netcoreapp3.1/PassingPara
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/bin/Debug/netcoreapp3.1/PassingPara.deps.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/bin/Debug/netcoreapp3.1/PassingPara.runtimeconfig.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/bin/Debug/netcoreapp3.1/PassingPara.runtimeconfig.dev.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/bin/Debug/netcoreapp3.1/PassingPara.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/bin/Debug/netcoreapp3.1/PassingPara.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/obj/Debug/netcoreapp3.1/PassingPara.csprojAssemblyReference.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/obj/Debug/netcoreapp3.1/PassingPara.csproj.CoreCompileInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/obj/Debug/netcoreapp3.1/PassingPara.AssemblyInfoInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/obj/Debug/netcoreapp3.1/PassingPara.AssemblyInfo.cs
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/obj/Debug/netcoreapp3.1/PassingPara.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/obj/Debug/netcoreapp3.1/PassingPara.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/PassingPara/obj/Debug/netcoreapp3.1/PassingPara.genruntimeconfig.cache
