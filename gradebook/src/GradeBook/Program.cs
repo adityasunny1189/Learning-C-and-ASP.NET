@@ -65,7 +65,7 @@ namespace GradeBook
 
         public static void Fibonacci() {
             List<int> FibArray = new List<int> {1, 1, 2};
-            for(int i = 0; i < 10; i++) {
+            for(int i = 0; i < 20; i++) {
                 int num1 = FibArray[FibArray.Count - 1];
                 int num2 = FibArray[FibArray.Count - 2];
                 FibArray.Add(num1 + num2);

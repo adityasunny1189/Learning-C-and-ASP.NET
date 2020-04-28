@@ -1,0 +1,13 @@
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/bin/Debug/netcoreapp3.1/newDir
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/bin/Debug/netcoreapp3.1/newDir.deps.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/bin/Debug/netcoreapp3.1/newDir.runtimeconfig.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/bin/Debug/netcoreapp3.1/newDir.runtimeconfig.dev.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/bin/Debug/netcoreapp3.1/newDir.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/bin/Debug/netcoreapp3.1/newDir.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/obj/Debug/netcoreapp3.1/newDir.csprojAssemblyReference.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/obj/Debug/netcoreapp3.1/newDir.csproj.CoreCompileInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/obj/Debug/netcoreapp3.1/newDir.AssemblyInfoInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/obj/Debug/netcoreapp3.1/newDir.AssemblyInfo.cs
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/obj/Debug/netcoreapp3.1/newDir.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/obj/Debug/netcoreapp3.1/newDir.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/newDir/obj/Debug/netcoreapp3.1/newDir.genruntimeconfig.cache
