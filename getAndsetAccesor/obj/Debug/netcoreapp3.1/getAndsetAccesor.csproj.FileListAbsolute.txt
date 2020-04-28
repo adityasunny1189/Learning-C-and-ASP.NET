@@ -1,0 +1,13 @@
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/obj/Debug/netcoreapp3.1/getAndsetAccesor.csprojAssemblyReference.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/obj/Debug/netcoreapp3.1/getAndsetAccesor.csproj.CoreCompileInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/obj/Debug/netcoreapp3.1/getAndsetAccesor.AssemblyInfoInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/obj/Debug/netcoreapp3.1/getAndsetAccesor.AssemblyInfo.cs
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/bin/Debug/netcoreapp3.1/getAndsetAccesor
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/bin/Debug/netcoreapp3.1/getAndsetAccesor.deps.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/bin/Debug/netcoreapp3.1/getAndsetAccesor.runtimeconfig.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/bin/Debug/netcoreapp3.1/getAndsetAccesor.runtimeconfig.dev.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/bin/Debug/netcoreapp3.1/getAndsetAccesor.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/bin/Debug/netcoreapp3.1/getAndsetAccesor.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/obj/Debug/netcoreapp3.1/getAndsetAccesor.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/obj/Debug/netcoreapp3.1/getAndsetAccesor.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/getAndsetAccesor/obj/Debug/netcoreapp3.1/getAndsetAccesor.genruntimeconfig.cache
