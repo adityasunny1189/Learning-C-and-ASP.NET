@@ -1,0 +1,13 @@
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.csprojAssemblyReference.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.csproj.CoreCompileInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfoInputs.cache
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.AssemblyInfo.cs
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/bin/Debug/netcoreapp3.1/LinkedList
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.deps.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.runtimeconfig.dev.json
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/bin/Debug/netcoreapp3.1/LinkedList.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.dll
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.pdb
+/home/aditya/Desktop/C#/Learning-C-and-ASP.NET/LinkedList/obj/Debug/netcoreapp3.1/LinkedList.genruntimeconfig.cache
